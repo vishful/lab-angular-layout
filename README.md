@@ -68,7 +68,7 @@ At the bottom of the testimonial, we will add a testimonial form to add some rea
 The first thing you will have to do is to generate the project with `Angular CLI`.
 
 
-![Layout](https://i1.faceprep.in/s3://facenow/ProGrad/ts-layout-using-angular.png)
+![Layout](https://i1.faceprep.in/ProGrad/ts-layout-using-angular.png)
 
 
 Happy Coding ProGrad ❤️
