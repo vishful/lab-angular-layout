@@ -63,7 +63,7 @@ You can check the sample output as a reference to do this project.
 The first thing you will have to do is to generate the project with `Angular CLI`.
 
 
-![Layout](https://i1.faceprep.in/ProGrad/ts-layout-using-angular.png)
+![Layout](https://i1.faceprep.in/ProGrad/ts-layout-using-angular-final.png)
 
 
 Happy Coding ProGrad ❤️!
