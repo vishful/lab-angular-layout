@@ -24,9 +24,7 @@ $ git commit -m "done"
 $ git push origin master
 ```
 
-Navigate to your repo and create a pull request from your master branch to the original repository's master branch.
-
-In the pull request name, add your Prograd id, name, and last name separated by a dash "-".
+Navigate to your repo and create a pull request from your master branch to the original repository's master branch. In the pull request name, add your ProGrad id, name, and last name separated by a dash "-".
 
 ## Deliverables
 
