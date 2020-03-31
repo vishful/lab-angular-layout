@@ -2,7 +2,7 @@
 
 # ProGrad Lab | Angular Layout
 
-# Learning Goals
+## Learning Goals
 
 After this lesson, you will be able to:
 
