@@ -2,9 +2,15 @@
 
 # ProGrad Lab | Angular Layout
 
+## Introduction
+
+Mike has recently learnt Angular and wants to to try out his first ever Angular application. He has just started and he know where he stands. So he decided to build a very simple layout. 
+
+The layout he has shared is similar to what we have discussed during the code along. With your learnings from the code along, we thought you could help out Mike. What say ProGrad?
+
 ## Learning Goals
 
-After this lesson, you will be able to:
+After this lab, you will be able to:
 
 - Create a static Angular application with Angular CLI.
 - Build an Angular application with multiple components.
@@ -52,15 +58,15 @@ To generate the starter code, follow the steps given below
     
 ## Progression #1: Layout
 
-In the project, we are going to create an angular layout with header footer and navigation bar. We are going to create three different components:
+You'll need to create an angular layout with header, footer and navigation bar. Use three different components:
 
 - The `Header` component will contain the page header along with the heading.
 - The `Footer` component will contain your page footer.
 - The `Navigation` component will contain your page navigation bar with two links home and about us.
 
-You can check the sample output as a reference to do this project. 
+You can check the sample layout shared by Mike for reference. 
 
-The first thing you will have to do is to generate the project with `Angular CLI`.
+Note: The first thing you will have to do is to generate the project with `Angular CLI`.
 
 
 ![Layout](https://i1.faceprep.in/ProGrad/ts-layout-using-angular-final.png)
