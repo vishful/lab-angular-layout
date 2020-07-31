@@ -1,0 +1,54 @@
+header{
+    background: hotpink;
+    padding: 2em 0;
+    font-weight: bold;
+}
+
+.ribbon{
+    background-color: hotpink;
+    color: white;
+    margin-right: 1385px;
+    width: max-content;
+    font-size: larger;
+    font-stretch: expanded;
+}
+
+a{
+    background-color: white;
+    border: hotpink;
+    color: hotpink;
+    text-decoration: none;
+    margin-right: 1380;
+}
+
+
+nav{
+    float: left;
+    border: hotpink;
+    border-style: solid;
+    border-color: hotpink;
+    border-right: 1385px;
+    border-left: 40px;
+    padding: 0 0;
+    width: 1510px;
+}
+
+ul{
+    list-style-type: none;
+    margin-left: 0;
+    display: flex;
+    padding: 2em 0;
+
+}
+
+li a{
+    padding: 1em;
+}
+
+li a:hover{
+    color: black;
+}
+
+
+
+
